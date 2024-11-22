@@ -1,0 +1,22 @@
+export const emojis = [
+  { emoji: "😀", name: "Grinning Face", keywords: ["smile", "happy", "joy", "grin"] },
+  { emoji: "❤️", name: "Red Heart", keywords: ["love", "heart", "like"] },
+  { emoji: "🔥", name: "Fire", keywords: ["hot", "flame", "trending"] },
+  { emoji: "✨", name: "Sparkles", keywords: ["stars", "shiny", "clean", "special"] },
+  { emoji: "🎉", name: "Party Popper", keywords: ["celebration", "party", "tada"] },
+  { emoji: "👍", name: "Thumbs Up", keywords: ["approve", "ok", "good"] },
+  { emoji: "🚀", name: "Rocket", keywords: ["launch", "ship", "trending"] },
+  { emoji: "💡", name: "Light Bulb", keywords: ["idea", "bright", "smart"] },
+  { emoji: "🌈", name: "Rainbow", keywords: ["color", "nature", "sky"] },
+  { emoji: "🎨", name: "Artist Palette", keywords: ["art", "design", "paint"] },
+  { emoji: "🎮", name: "Video Game", keywords: ["play", "console", "controller"] },
+  { emoji: "📱", name: "Mobile Phone", keywords: ["iphone", "smartphone", "device"] },
+  { emoji: "💻", name: "Laptop", keywords: ["computer", "work", "tech"] },
+  { emoji: "🎵", name: "Musical Note", keywords: ["music", "sound", "melody"] },
+  { emoji: "🌟", name: "Glowing Star", keywords: ["star", "bright", "sparkle"] },
+  { emoji: "🍕", name: "Pizza", keywords: ["food", "slice", "italian"] },
+  { emoji: "☕", name: "Coffee", keywords: ["drink", "caffeine", "hot"] },
+  { emoji: "🌺", name: "Flower", keywords: ["nature", "beautiful", "plant"] },
+  { emoji: "🐱", name: "Cat Face", keywords: ["animal", "pet", "kitten"] },
+  { emoji: "🌙", name: "Crescent Moon", keywords: ["night", "sleep", "dream"] }
+];
